@@ -215,9 +215,6 @@ footer p {
     animation: beat 1.5s ease 0s infinite;
 }
 
-
-/* dsfgsdfsd */
-
 @keyframes beat {
     0% {
         transform: scale(1);
