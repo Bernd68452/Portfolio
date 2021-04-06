@@ -230,10 +230,10 @@ footer a:hover {
 footer p {
     width: 100px;
     margin: 0 auto;
-    animation: beat 1.5s ease 0s infinite;
+    animation: heartbeat 1s infinite;
 }
 
-@keyframes beat {
+@keyframes heartbeat {
     0% {
         transform: scale(1);
     }
